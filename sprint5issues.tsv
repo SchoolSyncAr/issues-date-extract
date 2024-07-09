@@ -1,0 +1,42 @@
+Title	URL	Assignees	Status	Milestone	Sprint	Weight
+Padre: crear filtros por no leida	https://github.com/SchoolSyncAr/schoolsync-fe/issues/74	francopolesel	Done	SPRINT 5	Sprint 5	1
+Padre: crear filtros por no leida	https://github.com/SchoolSyncAr/schoolsync-be/issues/50	francopolesel	Done	SPRINT 5	Sprint 5	2
+Documentacion: emprolijar y crear backlog para Sprint 5	https://github.com/SchoolSyncAr/schoolsync-be/issues/64	picsfrunk	Done	SPRINT 5	Sprint 5	4
+Errormsg component as component	https://github.com/SchoolSyncAr/schoolsync-fe/issues/105	francopolesel	Done	SPRINT 5	Sprint 5	1
+Update a notification icon en navbar cuando marcas una notif como leida	https://github.com/SchoolSyncAr/schoolsync-fe/issues/108	JuanTexeira	Done	SPRINT 5	Sprint 5	2
+Admin: Modificar Crear Notificacion	https://github.com/SchoolSyncAr/schoolsync-fe/issues/109	Lopez-Sol	Done	SPRINT 5	Sprint 5	2
+Adaptar entidades a nuevo DER	https://github.com/SchoolSyncAr/schoolsync-be/issues/69	madescoces	Done	SPRINT 5	Sprint 5	4
+Crear endpoint de Lista de Hijos por Padre	https://github.com/SchoolSyncAr/schoolsync-be/issues/70	francopolesel	Done	SPRINT 5	Sprint 5	1
+Crear enpoint de Padres por curso	https://github.com/SchoolSyncAr/schoolsync-be/issues/71	francopolesel	Done	SPRINT 5	Sprint 5	1
+Restyling Searchbar	https://github.com/SchoolSyncAr/schoolsync-fe/issues/110	madescoces	Done	SPRINT 5	Sprint 5	2
+Agregar modals de confirmación de borrado	https://github.com/SchoolSyncAr/schoolsync-fe/issues/111	JuanTexeira	Done	SPRINT 5	Sprint 5	1
+Test endpoints: Notificaciones	https://github.com/SchoolSyncAr/schoolsync-be/issues/72	francopolesel	Done	SPRINT 5	Sprint 5	3
+Test endpoints: Auth	https://github.com/SchoolSyncAr/schoolsync-be/issues/73	madescoces	Done	SPRINT 5	Sprint 5	3
+Test endpoints: User	https://github.com/SchoolSyncAr/schoolsync-be/issues/74	calipast	Done	SPRINT 5	Sprint 5	3
+Test endpoints: Estudiantes	https://github.com/SchoolSyncAr/schoolsync-be/issues/75	JuanTexeira	Done	SPRINT 5	Sprint 5	3
+Test endpoints: Padres	https://github.com/SchoolSyncAr/schoolsync-be/issues/76	calipast	Done	SPRINT 5	Sprint 5	3
+DB: implementar borrado logico	https://github.com/SchoolSyncAr/schoolsync-be/issues/77	Lopez-Sol	Done	SPRINT 5	Sprint 5	1
+Navegar a notifications dashboard al hacer click en el logo de SchoolSync	https://github.com/SchoolSyncAr/schoolsync-fe/issues/116	francopolesel	Done	SPRINT 5	Sprint 5	1
+Test: Service Auth	https://github.com/SchoolSyncAr/schoolsync-fe/issues/119	madescoces	Done	SPRINT 5	Sprint 5	2
+Test: Service Notifications	https://github.com/SchoolSyncAr/schoolsync-fe/issues/120	JuanTexeira	Done	SPRINT 5	Sprint 5	2
+Test: Get All Students	https://github.com/SchoolSyncAr/schoolsync-fe/issues/123	calipast	Done	SPRINT 5	Sprint 5	2
+Test: Searchbar Component	https://github.com/SchoolSyncAr/schoolsync-fe/issues/124	francopolesel	Done	SPRINT 5	Sprint 5	2
+Test: CreateNotification Component	https://github.com/SchoolSyncAr/schoolsync-fe/issues/125	calipast	Done	SPRINT 5	Sprint 5	2
+Adaptar entidades a nuevo DER	https://github.com/SchoolSyncAr/schoolsync-be/issues/78	Lopez-Sol	Done	SPRINT 5	Sprint 5	4
+Refactor/create notification	https://github.com/SchoolSyncAr/schoolsync-fe/pull/128	Lopez-Sol	Done	SPRINT 5	Sprint 5	
+Padre: crear filtros por por hijo	https://github.com/SchoolSyncAr/schoolsync-be/issues/85	JuanTexeira	Done	SPRINT 5	Sprint 5	2
+Padre: crear filtros por hijo	https://github.com/SchoolSyncAr/schoolsync-fe/issues/132	JuanTexeira	Done	SPRINT 5	Sprint 5	2
+Test Get All Parents	https://github.com/SchoolSyncAr/schoolsync-fe/issues/136	calipast	Done	SPRINT 5	Sprint 5	2
+Documentacion: cualidades/drivers conductores del proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/87	picsfrunk	Done	SPRINT 5	Sprint 5	1
+Documentacion: métricas y análisis/conclusiones de cada sprint	https://github.com/SchoolSyncAr/schoolsync-be/issues/88	picsfrunk	Done	SPRINT 5	Sprint 5	1
+Documentacion: descripción de la incorporación de la metodología al desarrollo del proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/89	picsfrunk	Done	SPRINT 5	Sprint 5	1
+Documentacion: Riesgos y matriz FODA	https://github.com/SchoolSyncAr/schoolsync-be/issues/90	picsfrunk	Done	SPRINT 5	Sprint 5	1
+Documentacion: diagrama de diseño de solución y DER.	https://github.com/SchoolSyncAr/schoolsync-be/issues/92	picsfrunk	Done	SPRINT 5	Sprint 5	1
+Documentacion: Actualizar alcance / requerimientos	https://github.com/SchoolSyncAr/schoolsync-be/issues/93	picsfrunk	Done	SPRINT 5	Sprint 5	1
+Carpeta de Proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/94	picsfrunk	Done	SPRINT 5	Sprint 5	2
+Vista Admin: mejorar vista de listado de padres	https://github.com/SchoolSyncAr/schoolsync-fe/issues/139	Lopez-Sol	Done	SPRINT 5	Sprint 5	2
+Vista Admin: mejorar vista listado de estudiantes	https://github.com/SchoolSyncAr/schoolsync-fe/issues/140	Lopez-Sol	Done	SPRINT 5	Sprint 5	1
+Vista Padre: mejorar vista de Hijos	https://github.com/SchoolSyncAr/schoolsync-fe/issues/141	Lopez-Sol	Done	SPRINT 5	Sprint 5	1
+Tooltip end of searchField	https://github.com/SchoolSyncAr/schoolsync-fe/issues/143	JuanTexeira	Done	SPRINT 5	Sprint 5	1
+Bug Fixes and Code Coverage	https://github.com/SchoolSyncAr/schoolsync-fe/issues/156	madescoces	Done	SPRINT 5	Sprint 5	1
+Creación de test de inicialización de create notification	https://github.com/SchoolSyncAr/schoolsync-fe/issues/157	Lopez-Sol	Done	SPRINT 5	Sprint 5	1

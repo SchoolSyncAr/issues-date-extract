@@ -118,14 +118,13 @@ Refactor/create notification	https://github.com/SchoolSyncAr/schoolsync-fe/pull/
 Padre: crear filtros por por hijo	https://github.com/SchoolSyncAr/schoolsync-be/issues/85	JuanTexeira	Done	Sprint 5	2	SPRINT 5		SchoolSyncAr/schoolsync-be	
 Padre: crear filtros por hijo	https://github.com/SchoolSyncAr/schoolsync-fe/issues/132	JuanTexeira	Done	Sprint 5	2	SPRINT 5		SchoolSyncAr/schoolsync-fe	
 Test Get All Parents	https://github.com/SchoolSyncAr/schoolsync-fe/issues/136	calipast	Done	Sprint 5	2	SPRINT 5		SchoolSyncAr/schoolsync-fe	
-Documentacion: cualidades/drivers conductores del proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/87	picsfrunk	Done	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Documentacion: métricas y análisis/conclusiones de cada sprint	https://github.com/SchoolSyncAr/schoolsync-be/issues/88	picsfrunk	In Progress	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Documentacion: descripción de la incorporación de la metodología al desarrollo del proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/89	picsfrunk	Done	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Documentacion: Riesgos y matriz FODA	https://github.com/SchoolSyncAr/schoolsync-be/issues/90	picsfrunk	Todo	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Documentacion: matriz de trazabilidad	https://github.com/SchoolSyncAr/schoolsync-be/issues/91	picsfrunk	Todo	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Documentacion: diagrama de diseño de solución y DER.	https://github.com/SchoolSyncAr/schoolsync-be/issues/92	picsfrunk	Todo	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Documentacion: Actualizar alcance / requerimientos	https://github.com/SchoolSyncAr/schoolsync-be/issues/93	picsfrunk	Done	Sprint 5	1			SchoolSyncAr/schoolsync-be	
-Carpeta de Proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/94	picsfrunk	In Progress	Sprint 5	2	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Documentacion: cualidades/drivers conductores del proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/87	picsfrunk	Done	Sprint 5	1	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Documentacion: métricas y análisis/conclusiones de cada sprint	https://github.com/SchoolSyncAr/schoolsync-be/issues/88	picsfrunk	Done	Sprint 5	1	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Documentacion: descripción de la incorporación de la metodología al desarrollo del proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/89	picsfrunk	Done	Sprint 5	1	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Documentacion: Riesgos y matriz FODA	https://github.com/SchoolSyncAr/schoolsync-be/issues/90	picsfrunk	Done	Sprint 5	1	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Documentacion: diagrama de diseño de solución y DER.	https://github.com/SchoolSyncAr/schoolsync-be/issues/92	picsfrunk	Done	Sprint 5	1	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Documentacion: Actualizar alcance / requerimientos	https://github.com/SchoolSyncAr/schoolsync-be/issues/93	picsfrunk	Done	Sprint 5	1	SPRINT 5		SchoolSyncAr/schoolsync-be	
+Carpeta de Proyecto	https://github.com/SchoolSyncAr/schoolsync-be/issues/94	picsfrunk	Done	Sprint 5	2	SPRINT 5		SchoolSyncAr/schoolsync-be	
 Vista Admin: mejorar vista de listado de padres	https://github.com/SchoolSyncAr/schoolsync-fe/issues/139	Lopez-Sol	Done	Sprint 5	2	SPRINT 5	https://github.com/SchoolSyncAr/schoolsync-fe/pull/144	SchoolSyncAr/schoolsync-fe	
 Vista Admin: mejorar vista listado de estudiantes	https://github.com/SchoolSyncAr/schoolsync-fe/issues/140	Lopez-Sol	Done	Sprint 5	1	SPRINT 5	https://github.com/SchoolSyncAr/schoolsync-fe/pull/144	SchoolSyncAr/schoolsync-fe	
 Vista Padre: mejorar vista de Hijos	https://github.com/SchoolSyncAr/schoolsync-fe/issues/141	Lopez-Sol	Done	Sprint 5	1	SPRINT 5	https://github.com/SchoolSyncAr/schoolsync-fe/pull/144	SchoolSyncAr/schoolsync-fe	
